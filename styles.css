@@ -151,3 +151,31 @@ h1{
 .pricing-colm{
     padding:3% 2%;
 }
+
+@media (max-width:1000px){
+    .title-img{
+        position: static;
+        transform: rotate(0deg);
+    }
+    #title{
+        text-align: center;
+    }
+    .img-div{
+        margin-top: 10%;
+    }
+}
+@media (max-width:600px){
+    .container-fluid{
+        padding: 4% 10% 8%;
+    }
+    .main-text{
+        font-size: 2.8rem;
+        margin-bottom: 3rem;
+    }
+    .navbar{
+        padding-bottom: 4rem;
+    }
+    .navbar-brand{
+        font-size: 2.25rem;
+    }
+}
