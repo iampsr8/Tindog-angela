@@ -6,3 +6,4 @@ v.1.4 23/10 not ready: https://iampsr8.github.io/Tindog-angela/
 v.1.5 23/10 not ready: https://iampsr8.github.io/Tindog-angela/
 v.2.0 23/10 almost ready: https://iampsr8.github.io/Tindog-angela/
 v.2.1 23/10 almost ready: https://iampsr8.github.io/Tindog-angela/
+v.2.5 23/10 almost done: https://iampsr8.github.io/Tindog-angela/
