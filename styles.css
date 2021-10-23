@@ -152,6 +152,48 @@ h1{
     padding:3% 2%;
 }
 
+/* call to action styles */
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 8%;
+}
+.cta-text{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: white;
+    padding: 3% 10%;
+}
+.download-button-end{
+    margin:0 1%;
+}
+
+/* footer styles */
+
+#footer{
+    padding:8% 13%;
+    text-align: center;
+}
+.footer-link{
+    color:black;
+    margin:2%;
+}
+.footer-link:hover{
+    color: #ff4c68;
+}
+.footer-icon{
+    font-size: 1.7rem;
+}
+.footer-para{
+    margin:2%;
+}
+
+
+/* media queries responsive design */
+
 @media (max-width:1000px){
     .title-img{
         position: static;
@@ -176,9 +218,48 @@ h1{
         padding-bottom: 4rem;
     }
     .navbar-brand{
-        font-size: 1.9rem;
+        font-size: 2.25rem;
     }
     .download-button{
-         font-size: 1rem;
+        font-size: 1rem;
     }
+    .testimonial-text{
+        font-size: 1.1rem;
+    }
+    .names-pers{
+        font-size: 0.55rem;
+    }
+    .testimonial-img{
+        width: 20%;
+    }
+    .press-img{
+        margin: 20px 14px 30px;
+    }
+    #pricing{
+        padding: 26% 16%;
+    }
+    .cta-text{
+        font-size: 2rem;
+        padding: 10%;
+    }
+    #cta{
+        padding:10% 1%;
+    }
+    .download-button-end{
+        font-size: 0.8rem;
+        margin: 1% 3%;
+    }
+    #footer{
+        font-size: 0.9rem;
+        margin: 15% 3%;
+    }
+    .footer-icon{
+        font-size: 1.5rem;
+        margin: 1% 4%
+    }
+    .footer-para{
+        margin: 5%;
+        font-size: 0.9rem;
+    }
+    
 }
